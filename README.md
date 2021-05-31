@@ -1,5 +1,5 @@
 ## ⏳ Clonebot ⏳
-#### A Telegram bot can clone media from anywhere.
+#### A Telegram bot can clone medias.
 
 #### Command based clone bot:
 
