@@ -1,15 +1,14 @@
 ## ⏳ Clonebot ⏳
-#### A Telegram bot can clone media from anywhere to your personal chat. Two types of repos are in this category, cmd based &amp; UI based.
+#### A Telegram bot can clone media from anywhere.
 
-### Deploy cmd based clone bot:
-<br>
+#### Command based clone bot:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-cmd)&nbsp;&nbsp;Repo&nbsp;&nbsp;👉&nbsp;&nbsp;<a href="https://github.com/m4mallu/clonebot-cmd"><img alt="Renjith Mangal" src ="https://www.seekpng.com/png/full/97-971723_download-click-here-button-png-click-here-button.png" width="100" /></a>
-<br>
-<br>
-<br>
-<br>
-### Deploy UI based clone bot:
-<br>
+<a href="https://github.com/m4mallu/clonebot-cmd"><img src="https://img.shields.io/badge/Repository-Link-blueviolet?style=flat-square&logo=github"></a>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-ui)&nbsp;&nbsp;Repo&nbsp;&nbsp;👉&nbsp;&nbsp;<a href="https://github.com/m4mallu/clonebot-ui"><img alt="Renjith Mangal" src ="https://www.seekpng.com/png/full/97-971723_download-click-here-button-png-click-here-button.png" width="100" /></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-cmd)
+<br>
+#### UI based clone bot: (More Featured)
+
+<a href="https://github.com/m4mallu/clonebot-ui"><img src="https://img.shields.io/badge/Repository-Link-blueviolet?style=flat-square&logo=github"></a>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-ui)
