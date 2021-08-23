@@ -12,3 +12,7 @@ There are two types of clone bots are here according to the mode of operation. [
 #### UI based clone bot: (More Featured)
 
 <a href="https://github.com/m4mallu/clonebot-ui"><img src="https://img.shields.io/badge/Repository-Link-blueviolet?style=flat-square&logo=github"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-ui)
+
+<audio controls>
+  <source src="sample.mp3" type="audio/mpeg" />
+</audio>
